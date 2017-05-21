@@ -1,0 +1,46 @@
+ body {
+background-chttps://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi3ya6tyePTAhUpqlQKHV_vAWUQjRwIBw&url=http%3A%2F%2Funrtd.co%2Fpost-malone-metro-boomin-quevo-and-more-party-it-up-in-congratulations%2F&psig=AFQjCNF36a3Y_b8n1bLOHu8PkRp59UK_EQ&ust=1494445462199374olor: #ffffff;
+background-size:cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+#centertext
+{
+	padding-left: 50%;
+	padding-right: 50%;
+}
+
+#cover
+{
+	padding-bottom: 2%;
+	padding-top: 2%;
+}
+
+#footbar
+{
+ padding-bottom: 1%;
+ margin-top: 25px;
+
+}
+
+#landingimage{
+padding-bottom: 15px;
+
+}
+
+#welcome{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.icon{
+	width: 7%;	
+	padding-right: 1.5%;
+	padding-top: 1%;
+}
+
+a:link    {color:#000;}  /* unvisited link  */
+a:visited {color:#000;}  /* visited link    */
+a:hover   {color:#000;}  /* mouse over link */
+a:active  {color:#000;}  /* selected link   */ 
